@@ -13,7 +13,15 @@
 4. [Distributing](#distributing) <br>
 </details>
 
-# changelog
+# ChangeLog <a name="changelog"></a>
+
+<details>
+
+| Date | Owner | Reason for Change |
+| --- | --- | --- |
+| 03/05/2024 | STL John S | Initial Commit |
+
+</details>
 
 # Receiving Express <a name="receiving"></a>
    When the Express Mail arrives nedd to check each parcel to see if it's 63303 or 63304.
