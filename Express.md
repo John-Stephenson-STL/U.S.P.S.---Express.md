@@ -29,8 +29,8 @@
 [GoTo Top](#express)
 
 # Scanning Express <a name="scanning"></a>
- Nedd to use a hand scanner.
-    Use the following settings:
+ Nedd to use a hand scanner.<br>
+    Use the following settings:<br>
 
 
 [GoTo Top](#express)
