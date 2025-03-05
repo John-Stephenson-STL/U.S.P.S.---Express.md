@@ -26,8 +26,11 @@
 # Receiving Express <a name="receiving"></a>
    When the Express Mail arrives nedd to check each parcel to see if it's 63303 or 63304.
 
+[GoTo Top](#express)
+
 # Scanning Express <a name="scanning"></a>
   
+[GoTo Top](#express)
 
 # Distributing Express <a nane="distributing"></a>
   After scanning, take the parcel(s) to the carriers for their signature.
