@@ -11,6 +11,7 @@
 2. [Receiving](#receiving) <br>
 3. [Scanning](#scanning) <br>
 4. [Distributing](#distributing) <br>
+</details>
 
 # changelog
 
