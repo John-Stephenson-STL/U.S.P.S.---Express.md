@@ -29,7 +29,10 @@
 [GoTo Top](#express)
 
 # Scanning Express <a name="scanning"></a>
-  
+ Nedd to use a hand scanner.
+    Use the following settings:
+
+
 [GoTo Top](#express)
 
 # Distributing Express <a nane="distributing"></a>
