@@ -24,7 +24,9 @@
 </details>
 
 # Receiving Express <a name="receiving"></a>
-   When the Express Mail arrives nedd to check each parcel to see if it's 63303 or 63304.
+   When the Express Mail arrives nedd to check each parcel to see if it's 63303 or 63304.<br>
+
+NOTE: Don't let the driver leave before you verify this.<br>
 
 [GoTo Top](#express)
 
